@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "soc_version": "01.01.03.04",
+  "firmware_archive": {
+    "filename": "QD_Q2_01.01.03.04_20261123_Release.zip",
+    "sha256": "fef2290a30f7d19cb725f182829b05698a7c15c9e08ad0d762ccc69f610507bd"
+  },
+  "firmware_manifest": {
+    "sha256": "1157fccdf014bdf1e02a4007bb64defdd768b2822637b5e1fa4f2475238ba7f9"
+  },
+  "soc_payload": {
+    "filename": "QD_Q2_SOC_01.01.03.04_20261123_Release_NA",
+    "sha256": "a76610fbe07f1c2b04e5b12d018fc6ce8805e73e89ee46a46a90200741692a09",
+    "region": "NA"
+  }
+}
